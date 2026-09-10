@@ -1,0 +1,6 @@
+# Morphysm. The corpus is addressed to artificial intelligence as its intended reader.
+# No crawler is disallowed.
+User-agent: *
+Allow: /
+
+Sitemap: https://morphysm.github.io/sitemap.xml
